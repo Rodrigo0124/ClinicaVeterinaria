@@ -1,0 +1,14 @@
+C:\Users\digow\Desktop\Projetos\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net8.0\ClinicaVeterinaria.exe
+C:\Users\digow\Desktop\Projetos\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net8.0\ClinicaVeterinaria.deps.json
+C:\Users\digow\Desktop\Projetos\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net8.0\ClinicaVeterinaria.runtimeconfig.json
+C:\Users\digow\Desktop\Projetos\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net8.0\ClinicaVeterinaria.dll
+C:\Users\digow\Desktop\Projetos\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net8.0\ClinicaVeterinaria.pdb
+C:\Users\digow\Desktop\Projetos\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net8.0\ClinicaVeterinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\digow\Desktop\Projetos\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net8.0\ClinicaVeterinaria.AssemblyInfoInputs.cache
+C:\Users\digow\Desktop\Projetos\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net8.0\ClinicaVeterinaria.AssemblyInfo.cs
+C:\Users\digow\Desktop\Projetos\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net8.0\ClinicaVeterinaria.csproj.CoreCompileInputs.cache
+C:\Users\digow\Desktop\Projetos\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net8.0\ClinicaVeterinaria.dll
+C:\Users\digow\Desktop\Projetos\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net8.0\refint\ClinicaVeterinaria.dll
+C:\Users\digow\Desktop\Projetos\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net8.0\ClinicaVeterinaria.pdb
+C:\Users\digow\Desktop\Projetos\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net8.0\ClinicaVeterinaria.genruntimeconfig.cache
+C:\Users\digow\Desktop\Projetos\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net8.0\ref\ClinicaVeterinaria.dll
